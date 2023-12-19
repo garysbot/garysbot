@@ -21,7 +21,7 @@
 <h4>Backend</h4>
 <p>
   Rails
-  <img alt="Rails" src="https://img.shields.io/badge/-rubyonrails-FF0000?style=flat-square&logo=Rails&logoColor=white" />
+  <img alt="Rails" src="https://img.shields.io/badge/-rubyonrails-FF0000?style=flat-square&logo=rubyonrails&logoColor=white" />
   jBuilder
   Active Record
   PostGreSQL
