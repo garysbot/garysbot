@@ -62,4 +62,4 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garysbot)](https://github.com/garysbot)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garysbot&layout=compact)](https://github.com/garysbot)
