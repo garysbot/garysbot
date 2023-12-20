@@ -18,3 +18,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/New_York
+          plugin_stars: yes
+          config_order: stars
