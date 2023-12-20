@@ -4,7 +4,7 @@
 
 <hr>
 
-<h1>Gary Jiang: fullstack developer born & raised in New York City.</h1>
+<p>Gary Jiang: fullstack developer born & raised in <img src="https://media.giphy.com/media/Xd1HnX19b5rzovjU1K/giphy.gif" width="50"/>New York City.</p>
 
 <h3>📬 Contact Me</h3>
 
