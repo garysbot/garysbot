@@ -1,20 +1,17 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0OXM2bGpkZTl1cXowdHY5a3gwYWFsNTFuZXBmdzJpbWxwYnF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aDcdsNrugxrj3ck/giphy.gif" width="100" height="20"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0OXM2bGpkZTl1cXowdHY5a3gwYWFsNTFuZXBmdzJpbWxwYnF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aDcdsNrugxrj3ck/giphy.gif" width="100"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gary+Jiang,+Fullstack+Developer)](https://git.io/typing-svg)
+<h3>📬 Contact me:</h3>
+
+[![Email](https://img.shields.io/badge/-Email_Me-FFFFFF?style=flat-square&logo=gmail&logoColor=color)]()
+[![Portfolio](https://img.shields.io/badge/-Portfolio-CC0000?style=flat-square&logo=files&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-32A7FF?style=flat-square&logo=linkedin&logoColor=color/)](https://linkedin.com/in/garyjiang)
+
 
 <hr>
+<h3>🛠️ Building with:</h3>
 
-<p>Gary Jiang: fullstack developer born & raised in <img src="https://media.giphy.com/media/Xd1HnX19b5rzovjU1K/giphy.gif" width="50"/>New York City.</p>
-
-<h3>📬 Contact Me</h3>
-
-[![Portfolio](https://github-profile-badge-portfolio-1-o4pwcuj4ty3k.runkit.sh/)](https://imgaryjiang.com)
-[![LinkedIn](https://github-profile-badge-linkedin-swdsggvt2fyv.runkit.sh/)](https://linkedin.com/in/garyjiang)
-
-
-<h3>Things I code with</h3>
-
-<h4>Languages</h4>
+<h5>Languages</h5>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F1DC56?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -26,7 +23,7 @@
 
 </p>
 
-<h4>Frontend</h4>
+<h5>Frontend</h5>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -36,7 +33,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-<h4>Backend</h4>
+<h5>Backend</h5>
 <p>
   <img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black" />
@@ -47,7 +44,7 @@
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-FF9C18?style=flat-square&logo=amazonaws&logoColor=black" />
 </p>
 
-<h4>Create & Design</h4>
+<h5>Create & Design</h5>
 <p>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-32A7FF?style=flat-square&logo=adobephotoshop&logoColor=navy" />
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe_Premiere_Pro-EA7BFF?style=flat-square&logo=adobepremierepro&logoColor=31083A" />
@@ -59,7 +56,7 @@
   
 </p>
 
-<h4>Tools</h4>
+<h5>Tools</h5>
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -67,10 +64,12 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" /> 
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
 </p>
+<br>
+<hr>
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garysbot&layout=compact)](https://github.com/garysbot)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garysbot&layout=compact)](https://github.com/garysbot) -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1226519747&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
