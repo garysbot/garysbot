@@ -1,13 +1,16 @@
-[![Portfolio](https://github-profile-badge-portfolio-1-o4pwcuj4ty3k.runkit.sh/)](https://imgaryjiang.com)
-[![LinkedIn](https://github-profile-badge-linkedin-swdsggvt2fyv.runkit.sh/)](https://linkedin.com/in/garyjiang)
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0OXM2bGpkZTl1cXowdHY5a3gwYWFsNTFuZXBmdzJpbWxwYnF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aDcdsNrugxrj3ck/giphy.gif" width="100"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gary+Jiang,+Fullstack+Developer...;former+Growth+Marketer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gary+Jiang,+Fullstack+Developer)](https://git.io/typing-svg)
 
 <hr>
 
-<p>Gary Jiang: fullstack developer born & raised in New York City.</p>
+<h1>Gary Jiang: fullstack developer born & raised in New York City.</h1>
+
+<h3>📬 Contact Me</h3>
+
+[![Portfolio](https://github-profile-badge-portfolio-1-o4pwcuj4ty3k.runkit.sh/)](https://imgaryjiang.com)
+[![LinkedIn](https://github-profile-badge-linkedin-swdsggvt2fyv.runkit.sh/)](https://linkedin.com/in/garyjiang)
+
 
 <h3>Things I code with</h3>
 
