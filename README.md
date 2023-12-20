@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gary+Jiang,+Fullstack+Developer)](https://git.io/typing-svg)
 <h3>📬 Contact me:</h3>
 
-[![Email](https://img.shields.io/badge/-Email_Me-FFFFFF?style=flat-square&logo=gmail&logoColor=color)]()
-[![Portfolio](https://img.shields.io/badge/-Portfolio-CC0000?style=flat-square&logo=files&logoColor=white)]()
+<a href="mailto:gj.garyjiang@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-FFFFFF?style=flat-square&logo=gmail&logoColor=color" alt="Email me at gj.garyjiang@gmail.com"></a>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-CC0000?style=flat-square&logo=files&logoColor=white)](https://imgaryjiang.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-32A7FF?style=flat-square&logo=linkedin&logoColor=color/)](https://linkedin.com/in/garyjiang)
 
 
