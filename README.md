@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0OXM2bGpkZTl1cXowdHY5a3gwYWFsNTFuZXBmdzJpbWxwYnF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aDcdsNrugxrj3ck/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0OXM2bGpkZTl1cXowdHY5a3gwYWFsNTFuZXBmdzJpbWxwYnF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aDcdsNrugxrj3ck/giphy.gif" width="100" height="20"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gary+Jiang,+Fullstack+Developer)](https://git.io/typing-svg)
 
