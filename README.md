@@ -1,10 +1,13 @@
 [![Portfolio](https://github-profile-badge-portfolio-1-o4pwcuj4ty3k.runkit.sh/)](https://imgaryjiang.com)
 [![LinkedIn](https://github-profile-badge-linkedin-swdsggvt2fyv.runkit.sh/)](https://linkedin.com/in/garyjiang)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0OXM2bGpkZTl1cXowdHY5a3gwYWFsNTFuZXBmdzJpbWxwYnF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aDcdsNrugxrj3ck/giphy.gif" width="100"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gary+Jiang,+Fullstack+Developer...;former+Growth+Marketer)](https://git.io/typing-svg)
 
-<p>Welcome to my page! </br> I'm Gary, a fullstack developer born & raised in New York City.</p>
+<hr>
+
+<p>Gary Jiang: fullstack developer born & raised in New York City.</p>
 
 <h3>Things I code with</h3>
 
