@@ -64,6 +64,7 @@
   <img alt="Arc Browser" src="https://img.shields.io/badge/-Arc_Browser-FF5260?style=flat-square&logo=arc&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" /> 
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-10A27F?style=flat-square&logo=openai&logoColor=white" />
 </p>
 <br>
 <hr>
