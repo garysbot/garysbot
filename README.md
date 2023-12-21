@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0OXM2bGpkZTl1cXowdHY5a3gwYWFsNTFuZXBmdzJpbWxwYnF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aDcdsNrugxrj3ck/giphy.gif" width="100"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2500&pause=1000&color=AE5EE0&random=false&width=435&lines=Gary+Jiang%2C+Fullstack+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=32&duration=2500&pause=1000&color=AE5EE0&random=false&width=800&height=45&lines=Gary+Jiang%2C+Fullstack+Software+Engineer)](https://git.io/typing-svg)
 <h3>📬 Contact me:</h3>
 
 <a href="mailto:gj.garyjiang@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-FFFFFF?style=flat-square&logo=gmail&logoColor=color" alt="Email me at gj.garyjiang@gmail.com"></a>
