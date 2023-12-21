@@ -7,6 +7,16 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-CC0000?style=flat-square&logo=files&logoColor=white)](https://imgaryjiang.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-32A7FF?style=flat-square&logo=linkedin&logoColor=color/)](https://linkedin.com/in/garyjiang)
 
+<hr>
+<h3>🧪 Currently experimenting with:</h3>
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-10A27F?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=python&logoColor=color"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-ffde57?style=flat-square&logo=tensorflow&logoColor=white"/>
+</p>
 
 <hr>
 <h3>🛠️ Building with:</h3>
@@ -20,7 +30,6 @@
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=python&logoColor=color"/>
-
 </p>
 
 <h5>Frontend</h5>
